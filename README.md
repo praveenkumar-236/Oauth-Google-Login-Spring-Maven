@@ -60,5 +60,7 @@ Key Features:
 ## Contact
 
 - Praveen Kumar
+  
 - http://praveenn.tech
+  
 - Project Link: [GitHub](https://github.com/praveenkumar-236/Oauth-Google-Login-Spring-Maven)
